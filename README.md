@@ -12,3 +12,4 @@ Plugin installed Elasticsearch, Based on official image
 - analysis-icu
 - analysis-kuromoji
 - mobz/elasticsearch-head
+- delete-by-query
